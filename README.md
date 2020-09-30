@@ -7,7 +7,7 @@
  
  or https://github.com/blog/2309-introducing-topics instead.
  
-## Introduction
+## Introduction awesome-android
 android libs from github or other websites 
 
 Read it online:       
@@ -31,12 +31,12 @@ Step 2. The item should fall under the appropriate category.
 
 awesome-android 开发维护指南 https://github.com/snowdream/awesome-android/wiki
 
-### Contacts
+### Contacts awesome-android
 * Email：yanghui1986527#gmail.com
 * QQ Group: 82695646     
 * WeChat:  sn0wdr1am86      
 
-## License
+## License awesome-android
 ```
 Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
 
